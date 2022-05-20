@@ -48,11 +48,15 @@ https://docs.google.com/spreadsheets/d/1Zze-SVzioNiTsf0eVvzX5VmFg_IVhuzl74ifbvyF
 
 ![ER Diagram](https://user-images.githubusercontent.com/65257248/139020144-8bc58e11-2b01-4822-ac79-29ff5743a2b2.PNG)
 
+https://user-images.githubusercontent.com/65257248/139020144-8bc58e11-2b01-4822-ac79-29ff5743a2b2.PNG
+
 
 ## Screen Transition Diagram
 
 ![Transition Diagram](https://user-images.githubusercontent.com/65257248/138964638-bd91cd6b-8ef6-4b53-a6d1-5ee92944df92.PNG)
 
+
+https://user-images.githubusercontent.com/65257248/138964638-bd91cd6b-8ef6-4b53-a6d1-5ee92944df92.PNG
 
 
 ## Wireframe
@@ -60,5 +64,4 @@ https://docs.google.com/spreadsheets/d/1Zze-SVzioNiTsf0eVvzX5VmFg_IVhuzl74ifbvyF
 ![Wireframe](https://user-images.githubusercontent.com/65257248/138964731-3f5745de-ef7b-4568-8d81-45ce4f305cac.PNG)
 
 https://user-images.githubusercontent.com/65257248/138964731-3f5745de-ef7b-4568-8d81-45ce4f305cac.PNG
-
 
