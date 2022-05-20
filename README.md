@@ -21,8 +21,8 @@ Things you may want to cover:
 ## Execution Procedure
 
 ```bash
-$ git clone https://github.com/jean-Baptiste2020/dive-original-app.git
-$ cd dive-original-app
+$ git clone https://github.com/yakid-japon/app-dive.git
+$ cd app-dive
 $ bundle install
 $ rails db:create
 $ rails db:migrate
@@ -58,5 +58,7 @@ https://docs.google.com/spreadsheets/d/1Zze-SVzioNiTsf0eVvzX5VmFg_IVhuzl74ifbvyF
 ## Wireframe
 
 ![Wireframe](https://user-images.githubusercontent.com/65257248/138964731-3f5745de-ef7b-4568-8d81-45ce4f305cac.PNG)
+
+https://user-images.githubusercontent.com/65257248/138964731-3f5745de-ef7b-4568-8d81-45ce4f305cac.PNG
 
 
