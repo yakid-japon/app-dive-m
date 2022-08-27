@@ -62,6 +62,3 @@ https://user-images.githubusercontent.com/65257248/138964638-bd91cd6b-8ef6-4b53-
 ## Wireframe
 
 ![Wireframe](https://user-images.githubusercontent.com/65257248/138964731-3f5745de-ef7b-4568-8d81-45ce4f305cac.PNG)
-
-https://cacoo.com/diagrams/l3OOw4859JM763hg-D8DF2.png
-
